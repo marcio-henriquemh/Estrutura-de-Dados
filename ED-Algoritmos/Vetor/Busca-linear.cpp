@@ -1,7 +1,6 @@
 #include <iostream>
 #include <limits>
-#include <iomanip> // Incluído para formatação, se necessário
-
+#include <iomanip> 
 using namespace std;
 
 int main() {
